@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #111;
+  color: #fff;
+}
+
+.react-pdf__Page {
+  background-color: #222 !important;
+}
+
+.react-pdf__Document {
+  flex-direction: column;
+  gap: 1rem;
+  display: flex;
+}

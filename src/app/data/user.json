@@ -1,0 +1,126 @@
+{
+	"id": "3a96a761-b4e8-4cc6-991c-a3321ca1103c",
+	"resumeOptions": {
+		"title": "resume.pdf",
+		"font": "font-sans",
+		"color": {
+			"name": "Gray",
+			"bgColor": "bg-gray-500",
+			"selectedColor": "ring-gray-500",
+			"textColor": "text-gray-500"
+		}
+	},
+	"contactInfo": {
+		"title": "Contacto",
+		"items": [
+			{
+				"id": "vy19xj5n7illpx0xg5",
+				"type": "email",
+				"value": "maria.rodriguez@email.com"
+			},
+			{
+				"id": "8x0goj8e4rmllpx13jw",
+				"type": "phone",
+				"value": "(555) 123-4567"
+			},
+			{
+				"id": "ts2raov6bksllpx17rk",
+				"type": "website",
+				"value": "www.mariamarketing.com"
+			},
+			{
+				"id": "cumtseja38bllpx1c9c",
+				"type": "other",
+				"value": "Avenida Digital, 456, Ciudad de México"
+			}
+		]
+	},
+	"workInfo": {
+		"title": "Experiencia Laboral",
+		"items": [
+			{
+				"id": "mpwgzdlywbllpx1piw",
+				"position": "Experta en Redes Sociales",
+				"employer": "Agencia Digital Creativa",
+				"location": "Ciudad de México",
+				"startDate": "Junio 2019",
+				"endDate": "Presente",
+				"description": "<ul><li><li>Diseñé e implementé estrategias de contenido para redes sociales que aumentaron la participación del usuario en un 40% y generaron un aumento del 25% en el tráfico web.</li><li>Gestioné campañas publicitarias en plataformas de redes sociales, logrando un retorno de la inversión del 150% para varios clientes.</li><li>Colaboré con equipos creativos para crear contenido visualmente atractivo y relevante que resonara con la audiencia objetivo.<br></li></li></ul>"
+			}
+		]
+	},
+	"educationInfo": {
+		"title": "Educación",
+		"items": [
+			{
+				"id": "rlt1ivoymsllpx37tf",
+				"title": "Licenciatura en Marketing",
+				"institution": "Universidad Tecnológica",
+				"location": "Ciudad de México",
+				"startDate": "Septiembre 2013",
+				"endDate": "Junio 2017",
+				"description": "Desarrollé estrategias de marketing de influencia que aumentaron la visibilidad de la marca y generaron asociaciones"
+			}
+		]
+	},
+	"profileInfo": {
+		"title": "Perfil",
+		"name": "Maria",
+		"lastName": "Rodríguez",
+		"profesisonalTitle": "Experta en Redes Sociales y Marketing Digital",
+		"aboutMe": "Apasionada por el mundo del marketing digital y las redes sociales. Con amplia experiencia en la creación y ejecución de estrategias efectivas para aumentar la presencia en línea y la participación del público. Mi objetivo es aprovechar mi experiencia para impulsar marcas y generar conexiones significativas con la audiencia.",
+		"address": "Ciudad de México, México",
+		"age": 20,
+		"nationality": "Mexico",
+		"gender": null,
+		"maritalStatus": "Single",
+		"placeOfBirth": null,
+		"dateOfBirth": "1999-05-04",
+		"profileImage": "https://www.retratosbarcelona.com/wp-content/uploads/2022/09/Retratos_Barcelona_Corporate_Headshot_Iberent_3.jpg",
+		"licence": null
+	},
+	"referenceInfo": {
+		"title": "Referencias",
+		"items": [
+			{
+				"id": "nlagz8215zllpx4qvi",
+				"name": "Manuel Dino",
+				"title": "Jefe de obras",
+				"phone": "5566778877",
+				"email": "manuel@email.com"
+			},
+			{
+				"id": "xlagz8215zllpx4qvi",
+				"name": "Nik Ahac",
+				"title": "Ahe da sano",
+				"phone": "1165166006",
+				"email": "nik@email.com"
+			}
+		]
+	},
+	"skillsInfo": {
+		"title": "Habilidades",
+		"items": [
+			{
+				"id": "xva1dcse31nllpx3zxy",
+				"name": "Estrategias de Redes Sociales",
+				"level": "8"
+			},
+			{
+				"id": "pfy9dfcde4llpx44ft",
+				"name": "Marketing de Contenido",
+				"level": null
+			},
+			{
+				"id": "0ngur5wo8n8lllpx484o",
+				"name": "Publicidad en Redes Sociales",
+				"level": null
+			},
+			{
+				"id": "3mndb0l2y4jllpx4czo",
+				"name": "Análisis de Métricas",
+				"level": "6"
+			}
+		]
+	}
+}
