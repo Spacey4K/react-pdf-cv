@@ -4,7 +4,7 @@
   <img src="public/results/cvs.png">
 </a>
 
-See [results](https://github.com/Spacey4K/react-pdf-cv/tree/main/public/results).
+> See [results](https://github.com/Spacey4K/react-pdf-cv/tree/main/public/results).
 ## Getting Started
 
 First, install dependencies and run the development server:
