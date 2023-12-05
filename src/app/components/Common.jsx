@@ -35,8 +35,7 @@ function formatDate(date) {
 function parseHtml(html) {
 	return html
 		.replace(/<br>|(<\/li><li>)/g, '\n')
-		.replace(/<\/?ul>|<\/?li>/g, '')
-		;
+		.replace(/<\/?ul>|<\/?li>/g, '');
 }
 
 export { Txt, Bold, Title, formatDate, parseHtml };

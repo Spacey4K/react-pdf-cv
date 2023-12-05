@@ -25,7 +25,6 @@ import u from '../data/user.json';
 
 export default function Resumes({ resume }) {
 	const [numPages, setNumPages] = useState();
-	const [pageNumber, setPageNumber] = useState(1);
 	const [blobUrl, setBlobUrl] = useState('');
 
 	useEffect(() => {
