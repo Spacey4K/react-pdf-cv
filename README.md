@@ -1,7 +1,7 @@
 # 7 different CV designs made with react-pdf and tailwind
 
 <a href="./public" align="center">
-  <img width="600" height="200" src="public/results/cvs.png">
+  <img src="public/results/cvs.png">
 </a>
 
 See [results](https://github.com/Spacey4K/react-pdf-cv/tree/main/public/results).
